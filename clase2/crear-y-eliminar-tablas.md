@@ -25,3 +25,11 @@
         precio float(9,2) unsigned  not null,  
         stock tinyint  not null
     );  
+
+## Eliminación de tablas
+
+> Para eliminar una tabla utilizamos el comando ***DROP***
+
+> Sintáxis: 
+
+    DROP TABLE nombreTable;
