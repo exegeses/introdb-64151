@@ -9,10 +9,10 @@
 
     CREATE TABLE nombreTabla  
     ( 
-        nombreCampo tipo caracter´´isticas,  
-        nombreCampo2 tipo caracter´´isticas,  
-        nombreCampo3 tipo caracter´´isticas,  
-        nombreCampo4 tipo caracter´´isticas
+        nombreCampo tipo características,  
+        nombreCampo2 tipo características,  
+        nombreCampo3 tipo características,  
+        nombreCampo4 tipo características
     );
 
 > Ejemplo práctico
