@@ -36,7 +36,7 @@
 
     SELECT colTabla1, colTabla1, coltabla2  
     FROM tabla1  
-     JOIN tabla1  
+     JOIN tabla2  
      ON tabla1.foreignKey = tabla2.primaryKey;  
 
 
